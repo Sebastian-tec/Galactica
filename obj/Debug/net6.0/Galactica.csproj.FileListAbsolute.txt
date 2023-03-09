@@ -1,0 +1,15 @@
+E:\Github\Galactica\bin\Debug\net6.0\Galactica.exe
+E:\Github\Galactica\bin\Debug\net6.0\Galactica.deps.json
+E:\Github\Galactica\bin\Debug\net6.0\Galactica.runtimeconfig.json
+E:\Github\Galactica\bin\Debug\net6.0\Galactica.dll
+E:\Github\Galactica\bin\Debug\net6.0\Galactica.pdb
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.csproj.AssemblyReference.cache
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfoInputs.cache
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfo.cs
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.csproj.CoreCompileInputs.cache
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.dll
+E:\Github\Galactica\obj\Debug\net6.0\refint\Galactica.dll
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.pdb
+E:\Github\Galactica\obj\Debug\net6.0\Galactica.genruntimeconfig.cache
+E:\Github\Galactica\obj\Debug\net6.0\ref\Galactica.dll
